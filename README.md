@@ -6,4 +6,5 @@
 * [document](doc/problems_4.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=4) / 세자리 수를 곱해 만들 수 있는 가장 큰 대칭수
 * [document](doc/problems_5.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=5) / 1 ~ 20 사이의 어떤 수로도 나누어 떨어지는 가장 작은 수
 * [document](doc/problems_6.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=6) / 1부터 100까지 "제곱의 합"과 "합의 제곱"의 차는?
+* [document](doc/problems_7.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=7) / 10001번째의 소수
 * [document](doc/problems_118.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=118) / 팬디지털 소수의 집합

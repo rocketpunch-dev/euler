@@ -1,0 +1,7 @@
+## Problems 7
+
+* [http://euler.synap.co.kr/prob_detail.php?id=7](http://euler.synap.co.kr/prob_detail.php?id=7)
+
+* 소수를 크기 순으로 나열하면 2, 3, 5, 7, 11, 13, ... 과 같이 됩니다.
+
+* 이 때 10,001번째의 소수를 구하세요.
