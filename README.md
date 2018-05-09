@@ -8,4 +8,5 @@
 * [document](doc/problems_6.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=6) / 1부터 100까지 "제곱의 합"과 "합의 제곱"의 차는?
 * [document](doc/problems_7.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=7) / 10001번째의 소수
 * [document](doc/problems_8.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=8) / 1000자리 숫자 안에서 이어지는 5자리 숫자의 곱 중 최대값은?
+* [document](doc/problems_9.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=9) / a + b + c = 1000 이 되는 피타고라스 수
 * [document](doc/problems_118.md) - [LINK](http://euler.synap.co.kr/prob_detail.php?id=118) / 팬디지털 소수의 집합
