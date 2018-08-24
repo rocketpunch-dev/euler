@@ -1,6 +1,7 @@
 ## Project Euler
-* [Projet Euler](https://projecteuler.net/) 풀이 
-* 한국어 번역 참고: [LINK](http://euler.synap.co.kr/)
+* Project Euler problems to practice
+* [LINK: https://projecteuler.net/](https://projecteuler.net/)
+* [LINK: Korea site](http://euler.synap.co.kr/)
 
 ## Requirements
 
@@ -9,18 +10,17 @@
 
 ## Documentation
 
-* [document](doc/problems_1.md) - [LINK](https://projecteuler.net/problem=1) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=1) / 1. 1000보다 작은 자연수 중에서 3 또는 5의 배수를 모두 더하면? 
-* [document](doc/problems_2.md) - [LINK](https://projecteuler.net/problem=2) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=2) / 2. 피보나치 수열에서 4백만 이하이면서 짝수인 항의 합?
-* [document](doc/problems_3.md) - [LINK](https://projecteuler.net/problem=3) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=3) / 3. 가장 큰 소인수 구하기
-* [document](doc/problems_4.md) - [LINK](https://projecteuler.net/problem=4) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=4) / 4. 세자리 수를 곱해 만들 수 있는 가장 큰 대칭수
-* [document](doc/problems_5.md) - [LINK](https://projecteuler.net/problem=5) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=5) / 5. 1 ~ 20 사이의 어떤 수로도 나누어 떨어지는 가장 작은 수
-* [document](doc/problems_6.md) - [LINK](https://projecteuler.net/problem=6) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=6) / 6. 1부터 100까지 "제곱의 합"과 "합의 제곱"의 차는?
-* [document](doc/problems_7.md) - [LINK](https://projecteuler.net/problem=7) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=7) / 7. 10001번째의 소수
-* [document](doc/problems_8.md) - [LINK](https://projecteuler.net/problem=8) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=8) / 8. 1000자리 숫자 안에서 이어지는 5자리 숫자의 곱 중 최대값은?
-* [document](doc/problems_9.md) - [LINK](https://projecteuler.net/problem=9) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=9) / 9. a + b + c = 1000 이 되는 피타고라스 수
-* [document](doc/problems_10.md) - [LINK](https://projecteuler.net/problem=10) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=10) / 10. 이백만 이하 소수의 합
-
-* [document](doc/problems_118.md) - [LINK](https://projecteuler.net/problem=118) / [KOR](http://euler.synap.co.kr/prob_detail.php?id=118) / 119. not yet: ~~팬디지털 소수의 집합~~
+* [document](doc/problems_1.md) - [Problem link](https://projecteuler.net/problem=1) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=1) / Multiples of 3 and 5
+* [document](doc/problems_2.md) - [Problem link](https://projecteuler.net/problem=2) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=2) / Even Fibonacci numbers
+* [document](doc/problems_3.md) - [Problem link](https://projecteuler.net/problem=3) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=3) / Largest prime factor
+* [document](doc/problems_4.md) - [Problem link](https://projecteuler.net/problem=4) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=4) / Largest palindrome product
+* [document](doc/problems_5.md) - [Problem link](https://projecteuler.net/problem=5) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=5) / Smallest multiple
+* [document](doc/problems_6.md) - [Problem link](https://projecteuler.net/problem=6) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=6) / Sum square difference
+* [document](doc/problems_7.md) - [Problem link](https://projecteuler.net/problem=7) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=7) / 10001st prime
+* [document](doc/problems_8.md) - [Problem link](https://projecteuler.net/problem=8) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=8) / Largest product in a series
+* [document](doc/problems_9.md) - [Problem link](https://projecteuler.net/problem=9) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=9) / Special Pythagorean triplet
+* [document](doc/problems_10.md) - [Problem link](https://projecteuler.net/problem=10) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=10) / Summation of primes
+* [document](doc/problems_118.md) - [Problem link](https://projecteuler.net/problem=118) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=118) / ~~Pandigital prime sets~~ / not solved
 
 
 ## License
