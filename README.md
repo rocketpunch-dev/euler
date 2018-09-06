@@ -5,7 +5,7 @@
 
 ## Requirements
 
-* Python 3
+* Python 3.6+
 
 
 ## Documentation
@@ -20,6 +20,7 @@
 * [document](doc/problems_8.md) - [Problem link](https://projecteuler.net/problem=8) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=8) / Largest product in a series
 * [document](doc/problems_9.md) - [Problem link](https://projecteuler.net/problem=9) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=9) / Special Pythagorean triplet
 * [document](doc/problems_10.md) - [Problem link](https://projecteuler.net/problem=10) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=10) / Summation of primes
+* [document](doc/problems_17.md) - [Problem link](https://projecteuler.net/problem=17) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=17) / Number letter counts
 * [document](doc/problems_118.md) - [Problem link](https://projecteuler.net/problem=118) / [Korea site](http://euler.synap.co.kr/prob_detail.php?id=118) / ~~Pandigital prime sets~~ / not solved
 
 
