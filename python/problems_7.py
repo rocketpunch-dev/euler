@@ -13,7 +13,7 @@ while len(prime_number_list) < CHECK_COUNT:
             break
 
     if is_prime_number:
-        print(CHECK_NUM)
+        # print(CHECK_NUM)
         prime_number_list.append(CHECK_NUM)
 
 print(prime_number_list[-1])
