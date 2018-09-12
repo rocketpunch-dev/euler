@@ -21,19 +21,23 @@ check_num = (
     '71636269561882670428252483600823257530420752963450'
 )
 
-max_num = 99999
 
-for i in range(max_num, 1, -1):
-    if str(i).count('0') > 0:
-        continue
+def multiple_number(str_number):
+    result = 1
+    for i in str_number:
+        result *= int(i)
+    return result
 
-    if check_num.count(str(i)):
-        result_num = 1
-        for j in str(i):
-            result_num *= int(j)
 
-        print(f"{i} => {result_num}")
-        break
+def get_max_number(max_length):
+    max_num = 0
+    for index in range(len(check_num) - max_length + 1):
+        slice_number = check_num[index:index + max_length]
+        max_num = max(max_num, int(multiple_number(slice_number)))
+
+    print(max_num)
+
 
 if __name__ == "__main__":
-    pass
+    get_max_number(5)  # kor
+    get_max_number(13)  # eng
